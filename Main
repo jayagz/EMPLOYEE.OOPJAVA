@@ -19,7 +19,8 @@ class Employee {
         System.out.println("Employee 1 - Name: " + employee1.name + ", Salary: " + employee1.salary + ", Hire Date: " + employee1.hireDate);
         System.out.println("Employee 2 - Name: " + employee2.name + ", Salary: " + employee2.salary + ", Hire Date: " + employee2.hireDate);
         System.out.println("Employee 3 - Name: " + employee3.name + ", Salary: " + employee3.salary + ", Hire Date: " + employee3.hireDate);
-    }
+    System.out.println("Employee 3 - Name: " + employee3.name + ", Salary: " + employee3.salary + ", Hire Date: " + employee3.hireDate);  }
 }
 //
 //
+System.out.println("Employee 3 - Name: " + employee3.name + ", Salary: " + employee3.salary + ", Hire Date: " + employee3.hireDate);
